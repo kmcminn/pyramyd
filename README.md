@@ -14,12 +14,15 @@ npm run dev
 Framework
 - next.js/react
 - typescript
+- dynamic imports
 
 Models:
 - Zod: {Application}
 
-- Zustand
 State Mangement
+- Zustand
 
-Tests
-- jext
+Other
+- jest tests
+- typescript
+- dynamic imports
